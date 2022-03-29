@@ -1,0 +1,6 @@
+Nome: Maria Idade: 45
+Nome: Erick Idade: 21
+Nome: Sávio Idade: 22
+Nome: Hiago Idade: 15
+Nome: Ana Idade: 28
+Nome: Roberto Idade: 32
